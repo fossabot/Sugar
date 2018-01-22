@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/andrewplummer/Sugar.svg)](http://travis-ci.org/andrewplummer/Sugar)
 [![Coverage Status](https://coveralls.io/repos/andrewplummer/Sugar/badge.svg?branch=master)](https://coveralls.io/r/andrewplummer/Sugar?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2FSugar.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2FSugar?ref=badge_shield)
 
 A Javascript library for working with native objects.
 
@@ -257,3 +258,7 @@ Proposals for core features or major method changes will be added to the
 may or may not be accepted, depending on their utility. Generally, they will
 first be delegated to plugins that may eventually be added to the main library
 when they reach a certain stage of popularity.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2FSugar.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2FSugar?ref=badge_large)
